@@ -1,8 +1,8 @@
 ## Hi, I'm Austin 👋
 
-I'm a Computer Science student at **Stony Brook University** (B.S., May 2028). I build developer tools for AI coding agents, testing infrastructure for Roblox games, and real-time apps at hackathons.
+I'm a Computer Science student (B.S., May 2028). I build developer tools for AI coding agents, testing infrastructure for Roblox games, and real-time apps at hackathons.
 
-🔍 **Looking for Summer 2027 software engineering internships.** [LinkedIn](https://www.linkedin.com/in/austin-barikdar-b0b829320) · [austinbarikdar@gmail.com](mailto:austinbarikdar@gmail.com)
+🔍 **Looking for Summer 2027 software engineering internships.** [austinbarikdar@gmail.com](mailto:austinbarikdar@gmail.com)
 
 ---
 
@@ -42,5 +42,5 @@ An AI desktop browser where an LLM agent navigates, clicks and types on live pag
 ### Right now
 
 - Building LunaIDE and LuneTest
-- Taking Systems Fundamentals II and Intro to Data Science at Stony Brook
+- Taking Systems Fundamentals II and Intro to Data Science
 - Making Roblox games on the side
